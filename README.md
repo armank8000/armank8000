@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Btech Computer Science student<br>I am currently learning new technologies<br>I want to be a cyber security expert 
+Cybersecurity Intern with proven productivity and efficiency in task execution. Specialized in network security, threat analysis, and encryption technologies. Strong critical thinking and problem-solving abilities enhance performance in demanding cybersecurity environments.. 
 
 
 ## 🌐 Socials:
