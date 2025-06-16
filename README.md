@@ -3,7 +3,7 @@ Cybersecurity Intern with proven productivity and efficiency in task execution. 
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sanatani_4u) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/armank1000) ![tryhackme stats](https://tryhackme.com/armank8000/badges/owasp-10)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sanatani_4u) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/armank1000) 
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
@@ -23,5 +23,5 @@ Cybersecurity Intern with proven productivity and efficiency in task execution. 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=armank8000&icon=0&color=4)](https://visitcount.itsvg.in)
+https://tryhackme.com/armank8000/badges/owasp-10
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
