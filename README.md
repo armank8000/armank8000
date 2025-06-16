@@ -17,6 +17,7 @@ Cybersecurity Intern with proven productivity and efficiency in task execution. 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+https://tryhackme.com/armank8000/badges/owasp-10
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=armank8000&limit=5&theme=dark&combine_all_yearly_contributions=true)
