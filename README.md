@@ -1,5 +1,5 @@
 # 💫 About Me:
-Cybersecurity Intern with proven productivity and efficiency in task execution. Specialized in network security, threat analysis, and encryption technologies. Strong critical thinking and problem-solving abilities enhance performance in demanding cybersecurity environments.. 
+Cybersecurity learner with proven productivity and efficiency in task execution. Specialized in network security, threat analysis, and encryption technologies. Strong critical thinking and problem-solving abilities enhance performance in demanding cybersecurity environments.. 
 
 
 ## 🌐 Socials:
