@@ -3,7 +3,7 @@ Cybersecurity learner with proven productivity and efficiency in task execution.
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sanatani_4u) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/armank1000)[![LinkedIn](https://img.shields.io/badge/LinkedIn-black.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armank8000)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sanatani_4u) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/armank1000)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armank8000)
  
 
 # 💻 Tech Stack:
