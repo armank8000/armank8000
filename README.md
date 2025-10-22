@@ -22,13 +22,17 @@ Cybersecurity learner with proven productivity and efficiency in task execution.
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=armank8000&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-<!-- TryHackMe public-profile badge (clickable) -->
-[![](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4938847)](https://tryhackme.com/armank8000)
+<div align="center">
+  <a href="https://tryhackme.com/p/armank8000">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/armank8000.png" alt="TryHackMe Badge" />
+  </a>
+</div>
 
-![](https://nirzak-streak-stats.vercel.app/?user=armank8000&theme=dark&hide_border=false)
+<br/>
 
+![](https://github-readme-stats.vercel.app/api?username=armank8000&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=armank8000&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=armank8000&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
@@ -53,8 +57,5 @@ Cybersecurity learner with proven productivity and efficiency in task execution.
 ---
 
 ## 🔒 TryHackMe / OWASP Badge
-- TryHackMe profile: https://tryhackme.com/armank8000  
-- OWASP badge (TryHackMe): https://tryhackme.com/armank8000/badges/owasp-10
-
-You can change the TryHackMe image link target if you want it to link to the specific badge page:
-`[![](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4938847)](https://tryhackme.com/armank8000/badges/owasp-10)`
+- TryHackMe profile: [https://tryhackme.com/p/armank8000](https://tryhackme.com/p/armank8000)  
+- OWASP badge: [https://tryhackme.com/armank8000/badges/owasp-10](https://tryhackme.com/armank8000/badges/owasp-10)
