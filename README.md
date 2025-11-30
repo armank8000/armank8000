@@ -23,7 +23,7 @@ Cybersecurity learner with proven productivity and efficiency in task execution.
 
 # 📊 GitHub Stats
 
-[![armank8000 on TryHackMe]([https://tryhackme-badges.s3.amazonaws.com/armank8000.png](https://tryhackme-badges.s3.amazonaws.com/armank8000.png))](https://tryhackme.com/p/armank8000)
+[![armank8000 on TryHackMe](https://tryhackme-badges.s3.amazonaws.com/armank8000.png)](https://tryhackme.com/p/armank8000)
 
 <br/>
 
