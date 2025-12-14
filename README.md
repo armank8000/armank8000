@@ -21,11 +21,18 @@ Cybersecurity learner with proven productivity and efficiency in task execution.
 
 ---
 
-# 📊 GitHub Stats
+## 🔒 TryHackMe / OWASP Badge
 
 [![armank8000 on TryHackMe](https://tryhackme-badges.s3.amazonaws.com/armank8000.png)](https://tryhackme.com/p/armank8000)
 
 <br/>
+
+- TryHackMe profile: [https://tryhackme.com/p/armank8000](https://tryhackme.com/p/armank8000)
+
+--- 
+
+# 📊 GitHub Stats
+
 
 ![](https://github-readme-stats.vercel.app/api?username=armank8000&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=armank8000&theme=dark&hide_border=false)<br/>
@@ -52,6 +59,5 @@ Cybersecurity learner with proven productivity and efficiency in task execution.
 
 ---
 
-## 🔒 TryHackMe / OWASP Badge
-- TryHackMe profile: [https://tryhackme.com/p/armank8000](https://tryhackme.com/p/armank8000)  
-- OWASP badge: [https://tryhackme.com/armank8000/badges/owasp-10](https://tryhackme.com/armank8000/badges/owasp-10)
+
+
