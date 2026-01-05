@@ -49,5 +49,15 @@ Cybersecurity learner with proven productivity and efficiency in task execution.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+### 🔝 Top Contributed Repo
+
+
+![](https://github-contributor-stats.vercel.app/api?username=armank8000&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=armank8000&icon=0&color=4)](https://visitcount.itsvg.in)
+
+---
 
 
