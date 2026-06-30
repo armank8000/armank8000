@@ -52,7 +52,7 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/armank8000">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/armank8000.png" alt="TryHackMe Badge" />
+    <img src="https://raw.githubusercontent.com/armank8000/armank8000/master/assets/thm_propic.png" alt="TryHackMe Badge" />
   </a>
 </p>
 <p align="center">
