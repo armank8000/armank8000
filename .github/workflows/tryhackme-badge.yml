@@ -1,0 +1,14 @@
+name: Update TryHackMe Badge
+
+on:
+  workflow_dispatch:
+
+jobs:
+  tryhackme-badge-update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: p4p1/tryhackme-badge-workflow@main
+        with:
+          username: armank8000
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
