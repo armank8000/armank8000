@@ -55,6 +55,10 @@
     <img src="https://tryhackme-badges.s3.amazonaws.com/armank8000.png?v=2" alt="TryHackMe Badge" />
   </a>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/TryHackMe-Rank%209358-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/Top%201%25-Global-brightgreen?style=for-the-badge&logo=tryhackme&logoColor=white" />
+</p>
 
 <div align="center">
 
