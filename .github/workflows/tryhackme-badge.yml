@@ -8,7 +8,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: p4p1/tryhackme-badge-workflow@main
-        with:
-          username: armank8000
+
+      - name: Download TryHackMe Badge
+        run: |
+          mkdir -p assets
+          curl -L "https://tryhackme-badges.s3.amazonaws.com/armank8000.png" -o assets/thm_propic.png
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/thm_propic.png
+          git diff --cached --quiet || git commit -m "Update TryHackMe badge"
+          git push
+        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
