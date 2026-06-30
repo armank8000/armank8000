@@ -71,7 +71,7 @@
 <img src="https://assets.tryhackme.com/img/badges/webbed.svg" height="110" alt="Web Fundamentals">
 </a>&nbsp;
 <a href="https://tryhackme.com/armank8000/badges/metasploitable">
-<img src="https://assets.tryhackme.com/img/badges/metasploitable.png" height="110" alt="Metasploitable">
+<img src="https://assets.tryhackme.com/img/badges/hashcracker.svg" height="110" alt="Hash Cracker">
 </a>
 
 </div>
